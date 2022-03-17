@@ -12,5 +12,15 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="@string/name"
-        style="@style/nameStyle" />
+        android:textAlignment="center"
+        style="@style/NameStyle"/>
+
+    <ImageView
+        android:id="@+id/image_view"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/layout_margin"
+        android:contentDescription="@string/image_of_a_star"
+        app:srcCompat="@android:drawable/btn_star_big_on"
+        tools:ignore="ImageContrastCheck" />
 </LinearLayout>

@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">AboutMe</string>
     <string name="name">ILYAS KERBAL</string>
+    <string name="image_of_a_star">Image of a star</string>
 </resources>
