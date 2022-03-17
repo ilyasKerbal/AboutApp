@@ -2,4 +2,14 @@
     <string name="app_name">AboutMe</string>
     <string name="name">ILYAS KERBAL</string>
     <string name="image_of_a_star">Image of a star</string>
+    <string name="bio_text">My name is Ilyas.
+\n\nI am a JavaScript full-stack developer.
+\n\nI\'ve been programming since my childhood starting with C and C++.
+\n\nDuring my engineering studies at the School of Information Science, I had the chance to learn Java and Python.\n\n
+\nTo view some of my awesome projects, check the section below. \n
+\nI believe that programming is more than just writing code; \nIt\'s more about problem-solving and design thinking.\n
+\nMy best learning technique is to reverse-engineer the best projects and learn from them step-by-step.\n\n
+    </string>
+    <string name="what_is_name">What\'s your name</string>
+    <string name="done">Done</string>
 </resources>
